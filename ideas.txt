@@ -1,0 +1,5 @@
+divide the programs in to three parts 
+
+1) Generation 
+2) enecrypting data 
+3) Breaking encryption (theoretically)
